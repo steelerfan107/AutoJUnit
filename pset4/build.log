@@ -1,0 +1,44 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------------< fall24ee360t:pset4 >-------------------------
+[INFO] Building pset4 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- jacoco-maven-plugin:0.8.7:prepare-agent (default) @ pset4 ---
+[INFO] argLine set to -javaagent:C:\\Users\\yhcro\\.m2\\repository\\org\\jacoco\\org.jacoco.agent\\0.8.7\\org.jacoco.agent-0.8.7-runtime.jar=destfile=C:\\Users\\yhcro\\PycharmProjects\\stproject\\pset4\\target\\jacoco.exec
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ pset4 ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ pset4 ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\yhcro\PycharmProjects\stproject\pset4\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ pset4 ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\yhcro\PycharmProjects\stproject\pset4\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ pset4 ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to C:\Users\yhcro\PycharmProjects\stproject\pset4\target\test-classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ pset4 ---
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- jacoco-maven-plugin:0.8.7:report (report) @ pset4 ---
+[INFO] Skipping JaCoCo execution due to missing execution data file.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ pset4 ---
+[INFO] Building jar: C:\Users\yhcro\PycharmProjects\stproject\pset4\target\pset4-1.0-SNAPSHOT.jar
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ pset4 ---
+[INFO] Installing C:\Users\yhcro\PycharmProjects\stproject\pset4\target\pset4-1.0-SNAPSHOT.jar to C:\Users\yhcro\.m2\repository\fall24ee360t\pset4\1.0-SNAPSHOT\pset4-1.0-SNAPSHOT.jar
+[INFO] Installing C:\Users\yhcro\PycharmProjects\stproject\pset4\pom.xml to C:\Users\yhcro\.m2\repository\fall24ee360t\pset4\1.0-SNAPSHOT\pset4-1.0-SNAPSHOT.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.010 s
+[INFO] Finished at: 2024-11-06T22:33:15-06:00
+[INFO] ------------------------------------------------------------------------

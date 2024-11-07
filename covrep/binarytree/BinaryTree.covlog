@@ -1,0 +1,36 @@
+CovRep
+source: C:\Users\yhcro\PycharmProjects\stproject\examples/src/main/java
+class: binarytree.BinaryTree
+test source: C:\Users\yhcro\PycharmProjects\stproject\examples\src\test\java
+test class: binarytree.BinaryTreeTests
+
+visiting class: binarytree.BinaryTree
+visiting class: binarytree.BinaryTree$Node
+labels to visit: [binarytree.BinaryTree.Node_left, binarytree.BinaryTree.Node_info+, binarytree.BinaryTree_root, binarytree.BinaryTree.Node_right+, binarytree.BinaryTree_size, binarytree.BinaryTree.Node_info, binarytree.BinaryTree.Node_left+, binarytree.BinaryTree.Node_right]
+-------------------------------------------------------------------------------------
+target assertion: assertTrue(tree.repOK_Complete())
+assertTrue
+to visit by assertion: [binarytree.BinaryTree.Node_left, binarytree.BinaryTree.Node_info+, binarytree.BinaryTree_root, binarytree.BinaryTree.Node_right+, binarytree.BinaryTree_size, binarytree.BinaryTree.Node_info, binarytree.BinaryTree.Node_left+, binarytree.BinaryTree.Node_right]
+covered labels by assertion: [binarytree.BinaryTree.Node_left, binarytree.BinaryTree_root, binarytree.BinaryTree.Node_right+, binarytree.BinaryTree_size, binarytree.BinaryTree.Node_left+, binarytree.BinaryTree.Node_right]
+assert heap coverage: 75.0
+-------------------------------------------------------------------------------------
+target assertion: assertTrue(tree.repOK_Complete())
+assertTrue
+to visit by assertion: [binarytree.BinaryTree.Node_left, binarytree.BinaryTree.Node_info+, binarytree.BinaryTree_root, binarytree.BinaryTree.Node_right+, binarytree.BinaryTree_size, binarytree.BinaryTree.Node_info, binarytree.BinaryTree.Node_left+, binarytree.BinaryTree.Node_right]
+covered labels by assertion: [binarytree.BinaryTree.Node_left, binarytree.BinaryTree_root, binarytree.BinaryTree.Node_right+, binarytree.BinaryTree_size, binarytree.BinaryTree.Node_left+, binarytree.BinaryTree.Node_right]
+assert heap coverage: 75.0
+-------------------------------------------------------------------------------------
+target assertion: assertTrue(tree.repOK_Complete())
+assertTrue
+to visit by assertion: [binarytree.BinaryTree.Node_left, binarytree.BinaryTree.Node_info+, binarytree.BinaryTree_root, binarytree.BinaryTree.Node_right+, binarytree.BinaryTree_size, binarytree.BinaryTree.Node_info, binarytree.BinaryTree.Node_left+, binarytree.BinaryTree.Node_right]
+covered labels by assertion: [binarytree.BinaryTree.Node_left, binarytree.BinaryTree_root, binarytree.BinaryTree.Node_right+, binarytree.BinaryTree_size, binarytree.BinaryTree.Node_left+, binarytree.BinaryTree.Node_right]
+assert heap coverage: 75.0
+-------------------------------------------------------------------------------------
+target assertion: assertTrue(tree.repOK_Complete())
+assertTrue
+to visit by assertion: [binarytree.BinaryTree.Node_left, binarytree.BinaryTree.Node_info+, binarytree.BinaryTree_root, binarytree.BinaryTree.Node_right+, binarytree.BinaryTree_size, binarytree.BinaryTree.Node_info, binarytree.BinaryTree.Node_left+, binarytree.BinaryTree.Node_right]
+covered labels by assertion: [binarytree.BinaryTree.Node_left, binarytree.BinaryTree_root, binarytree.BinaryTree.Node_right+, binarytree.BinaryTree_size, binarytree.BinaryTree.Node_left+, binarytree.BinaryTree.Node_right]
+assert heap coverage: 75.0
+-------------------------------------------------------------------------------------
+Covered labels by test suite: [binarytree.BinaryTree.Node_left, binarytree.BinaryTree_root, binarytree.BinaryTree.Node_right+, binarytree.BinaryTree_size, binarytree.BinaryTree.Node_left+, binarytree.BinaryTree.Node_right]
+Total heap coverage: 75.0

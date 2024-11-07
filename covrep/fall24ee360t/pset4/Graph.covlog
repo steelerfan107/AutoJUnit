@@ -1,0 +1,17 @@
+CovRep
+source: C:\Users\yhcro\PycharmProjects\stproject\pset4/src/main/java
+class: fall24ee360t.pset4.Graph
+test source: C:\Users\yhcro\PycharmProjects\stproject\pset4\src\test\java
+test class: llm.LLMGeneratedTest
+
+visiting class: fall24ee360t.pset4.Graph
+labels to visit: [fall24ee360t.pset4.Graph_numNodes, fall24ee360t.pset4.Graph_edges, fall24ee360t.pset4.Graph_edges+]
+-------------------------------------------------------------------------------------
+target assertion: assertFalse(g.reachable(sources, targets))
+assertFalse
+to visit by assertion: [fall24ee360t.pset4.Graph_numNodes, fall24ee360t.pset4.Graph_edges, fall24ee360t.pset4.Graph_edges+]
+covered labels by assertion: [fall24ee360t.pset4.Graph_numNodes, fall24ee360t.pset4.Graph_edges, fall24ee360t.pset4.Graph_edges+]
+assert heap coverage: 100.0
+-------------------------------------------------------------------------------------
+Covered labels by test suite: [fall24ee360t.pset4.Graph_numNodes, fall24ee360t.pset4.Graph_edges, fall24ee360t.pset4.Graph_edges+]
+Total heap coverage: 100.0
