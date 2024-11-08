@@ -35,7 +35,7 @@ LLM Agent which can generate effective JUnit test suites.
 !git clone https://github.com/steelerfan107/AutoJUnit.git
 ```
 
-3) Modify Params
+3) Modify Params in main.py
 
 ```
 MVN_LOC = "/opt/apache-maven-3.9.9/bin/mvn"
